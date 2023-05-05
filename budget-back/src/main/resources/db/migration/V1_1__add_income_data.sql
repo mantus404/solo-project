@@ -1,0 +1,5 @@
+INSERT INTO INCOME (TITLE, AMOUNT, DATE_VALUE) VALUES
+
+('Alga', '1000.05','2023-05-01'),
+('Avansas', '300.15','2023-05-05'),
+('Dovana', '150.00','2023-05-03');
